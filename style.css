@@ -37,7 +37,7 @@ body {
 }
 #header {
     position: relative;
-    height: 140vh;
+    height: 95vh;
     width: 100%;
     background-image: url(Images/bg.jpg);
     background-size: cover;
